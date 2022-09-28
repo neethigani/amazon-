@@ -1,0 +1,2 @@
+# amazon-
+simple code devops
